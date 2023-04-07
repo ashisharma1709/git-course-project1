@@ -1,1 +1,1 @@
-console.log("hello friends!!!");
+console.log("javascript course in github");
